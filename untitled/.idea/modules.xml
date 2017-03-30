@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/Documents/PythonProjects/StatGatherer/.idea/StatGatherer.iml" filepath="D:/Documents/PythonProjects/StatGatherer/.idea/StatGatherer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jamesfreethrows/.idea/jamesfreethrows.iml" filepath="$PROJECT_DIR$/../jamesfreethrows/.idea/jamesfreethrows.iml" />
+      <module fileurl="file://D:/ENV/learning/tutorial/.idea/tutorial.iml" filepath="D:/ENV/learning/tutorial/.idea/tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/untitled.iml" filepath="$PROJECT_DIR$/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>
